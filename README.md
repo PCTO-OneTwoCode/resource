@@ -2,7 +2,6 @@
 
 # One Two Code :unicorn:
 
-<<<<<<< HEAD
 ### Docs
 
 ###### Usefull links:
@@ -20,6 +19,4 @@
 [Speech recongnition](https://realpython.com/python-speech-recognition/)
 
 [Face recognition](https://www.xailient.com/post/face-tracking-python-dlib)
-=======
-### Resource
->>>>>>> 2924de43e5bedec354ec6aefdf7578e898cbbd6f
+
